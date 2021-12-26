@@ -30,6 +30,7 @@ _Buzzer Connections_
 - Positive Terminal ----> D2
 - Negative Terminal ----> Gnd
 
+![Brilliant Bojo](https://user-images.githubusercontent.com/55826362/147408543-3b2dc389-9216-4b00-aa8b-15293e307ada.png)
 
 
 
